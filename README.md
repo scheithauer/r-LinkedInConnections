@@ -232,7 +232,7 @@ li_cons %>%
 
 ggsave('./03-graphs/01 - connections per year.png', width = 16, height = 9)
 ```
-![](./03-graphs/01 - connections per year.png)
+![](./03-graphs/01%20-%20connections%20per%20year.png)
 
 ### How many new connections have I made every month?
 
@@ -254,7 +254,7 @@ li_cons %>%
 
 ggsave('./03-graphs/02 - connections per year-quarter.png', width = 16, height = 9)
 ```
-![](./03-graphs/02 - connections per year-quarter.png)
+![](./03-graphs/02%20-%20connections%20per%20year-quarter.png)
 
 ### How many new connections have I made every month disregarding the first month after joining?
 
@@ -277,7 +277,7 @@ li_cons %>%
 
 ggsave('./03-graphs/03 - connections per year-quarter without march 12.png', width = 16, height = 9)
 ```
-![](./03-graphs/03 - connections per year-quarter without march 12.png)
+![](./03-graphs/03%20-%20connections%20per%20year-quarter%20without%20march%2012.png)
 
 ### For which companies are my connections working for?
 
@@ -305,7 +305,7 @@ li_cons %>%
 
 ggsave('./03-graphs/05 - connections per top companies.png', width = 16, height = 9)
 ```
-![](./03-graphs/05 - connections per top companies.png)
+![](./03-graphs/05%20-%20connections%20per%20top%20companies.png)
 
 ### Are there any peak moments with top-companies?
 
@@ -347,7 +347,7 @@ li_cons %>%
 
 ggsave('./03-graphs/07 - top-companies by year.png', width = 16, height = 9)
 ```
-![](./03-graphs/07 - top-companies by year.png)
+![](./03-graphs/07%20-%20top-companies%20by%20year.png)
 
 ### What are my connections' positions?
 
@@ -389,7 +389,7 @@ li_cons_topPositions %>%
 
 ggsave('./03-graphs/06 - connections per top companies.png', width = 16, height = 9)
 ```
-![](./03-graphs/06 - connections per top companies.png)
+![](./03-graphs/06%20-%20connections%20per%20top%20companies.png)
 
 ### Are there any peak moments with top-positions?
 
@@ -430,7 +430,7 @@ li_cons %>%
 ggsave('./03-graphs/08 - top-positions by year.png', width = 16, height = 9)
 ```
 
-![](./03-graphs/08 - top-positions by year.png)
+![](./03-graphs/08%20-%20top-positions%20by%20year.png)
 
 ### Where are the top-positions working at the moment?
 
@@ -454,7 +454,7 @@ li_cons %>%
 
 ggsave('./03-graphs/09 - top-positions by top companies.png', width = 16, height = 9)
 ```
-![](./03-graphs/09 - top-positions by top companies.png)
+![](./03-graphs/09%20-%20top-positions%20by%20top%20companies.png)
 
 ## Conclusion
 
